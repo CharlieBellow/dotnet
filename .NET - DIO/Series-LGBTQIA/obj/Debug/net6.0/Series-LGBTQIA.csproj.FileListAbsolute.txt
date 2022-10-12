@@ -1,0 +1,15 @@
+/home/charlie/Repositórios do GitHub/DigitalInnovationOneNet/App de séries/Series-LGBTQIA/obj/Debug/net6.0/Series-LGBTQIA.csproj.AssemblyReference.cache
+/home/charlie/Repositórios do GitHub/DigitalInnovationOneNet/App de séries/Series-LGBTQIA/obj/Debug/net6.0/Series-LGBTQIA.GeneratedMSBuildEditorConfig.editorconfig
+/home/charlie/Repositórios do GitHub/DigitalInnovationOneNet/App de séries/Series-LGBTQIA/obj/Debug/net6.0/Series-LGBTQIA.AssemblyInfoInputs.cache
+/home/charlie/Repositórios do GitHub/DigitalInnovationOneNet/App de séries/Series-LGBTQIA/obj/Debug/net6.0/Series-LGBTQIA.AssemblyInfo.cs
+/home/charlie/Repositórios do GitHub/DigitalInnovationOneNet/App de séries/Series-LGBTQIA/obj/Debug/net6.0/Series-LGBTQIA.csproj.CoreCompileInputs.cache
+/home/charlie/Repositórios do GitHub/DigitalInnovationOneNet/App de séries/Series-LGBTQIA/bin/Debug/net6.0/Series-LGBTQIA
+/home/charlie/Repositórios do GitHub/DigitalInnovationOneNet/App de séries/Series-LGBTQIA/bin/Debug/net6.0/Series-LGBTQIA.deps.json
+/home/charlie/Repositórios do GitHub/DigitalInnovationOneNet/App de séries/Series-LGBTQIA/bin/Debug/net6.0/Series-LGBTQIA.runtimeconfig.json
+/home/charlie/Repositórios do GitHub/DigitalInnovationOneNet/App de séries/Series-LGBTQIA/bin/Debug/net6.0/Series-LGBTQIA.dll
+/home/charlie/Repositórios do GitHub/DigitalInnovationOneNet/App de séries/Series-LGBTQIA/bin/Debug/net6.0/ref/Series-LGBTQIA.dll
+/home/charlie/Repositórios do GitHub/DigitalInnovationOneNet/App de séries/Series-LGBTQIA/bin/Debug/net6.0/Series-LGBTQIA.pdb
+/home/charlie/Repositórios do GitHub/DigitalInnovationOneNet/App de séries/Series-LGBTQIA/obj/Debug/net6.0/Series-LGBTQIA.dll
+/home/charlie/Repositórios do GitHub/DigitalInnovationOneNet/App de séries/Series-LGBTQIA/obj/Debug/net6.0/ref/Series-LGBTQIA.dll
+/home/charlie/Repositórios do GitHub/DigitalInnovationOneNet/App de séries/Series-LGBTQIA/obj/Debug/net6.0/Series-LGBTQIA.pdb
+/home/charlie/Repositórios do GitHub/DigitalInnovationOneNet/App de séries/Series-LGBTQIA/obj/Debug/net6.0/Series-LGBTQIA.genruntimeconfig.cache

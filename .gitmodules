@@ -1,0 +1,3 @@
+[submodule ".NET - DIO/POObjetos/ThreadConversa"]
+	path = .NET - DIO/POObjetos/ThreadConversa
+	url = git@github.com:CharlieBellow/ThreadDeConversa-C-.git
